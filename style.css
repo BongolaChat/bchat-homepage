@@ -1273,7 +1273,7 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .download-bg{
-	background: url(uploads/bongola1.jpg) no-repeat center;
+	background: url(uploads/BCHATIMAGE/bongola1.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 }
@@ -2002,7 +2002,7 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(images/bg.png) no-repeat center center #333333;
+    background: url(uploads/BCHATIMAGE/bgsite.png) no-repeat center center #333333;
 }
 
 .pdi{
